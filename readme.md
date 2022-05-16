@@ -34,13 +34,7 @@ Ceci installera toutes les pacquets requis dans le fichier `requirements.txt`.
 
 - [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/#) est l'extension que nous utiliserons pour gérer les demandes d'origine croisée de notre serveur frontend.
 
-## CONFIGURATION DE LA BASE DE DONNÉES
 
-Avec Postgres en marche, restaurez une base de données en utilisant le fichier bookdb.sql fourni. Depuis le dossier backend, dans le terminal, exécutez :
-
-```bash
-psql booksdb < bookdb.sql
-```
 
 ## DÉMARER LE SERVEUR
 
